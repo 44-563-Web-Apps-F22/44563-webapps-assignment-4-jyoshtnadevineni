@@ -1,0 +1,42 @@
+.speech {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: black;
+}
+.song{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: black;
+
+}
+.direction{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    color: black;
+    background-color: bisque;
+}
+.direction:hover{
+    background-color: bisque;
+    color: aqua;
+}
+.name{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',  sans-serif;
+   font-size: 40px;
+   color: black;
+}
+.FREDERIC {
+    font-style: italic; 
+    color: blue;
+    }
+.GENERAL{
+        font-style: italic;
+        color: blue;
+    }
+.MABEL{
+        font-style: italic;
+        color: blue;
+    } 
+.chorus {
+    font-size: 15px;
+    color: blueviolet;
+}
