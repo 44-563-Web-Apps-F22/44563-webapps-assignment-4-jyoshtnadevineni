@@ -19,24 +19,25 @@ p.direction{
     background-color: bisque;
     color: aqua;
 }
-.name{
+h6.name{
    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',  sans-serif;
    font-size: 40px;
    color: black;
 }
-.FREDERIC {
+h6.frederic {
     font-style: italic; 
     color: blue;
+    font-size: 20px;
     }
-.GENERAL{
+h6.general{
         font-style: italic;
-        color: blue;
+    color: brown;
     }
-.MABEL{
+h6.mabel{
         font-style: italic;
-        color: blue;
+        color: azure;
     } 
-.chorus {
+h6.chorus {
     font-size: 15px;
     color: blueviolet;
 }
