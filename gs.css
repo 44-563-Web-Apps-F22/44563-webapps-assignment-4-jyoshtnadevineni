@@ -63,6 +63,9 @@ tr:nth-child(even)
 .police:hover{
     background-color:darkseagreen;
     color:dimgray;
+    border:dashed;
+     filter:blur(4px); 
+    text-shadow: 1px 1px 20px salmon;
 }
 .all{
     color: chartreuse;
